@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.pixeye.ecs": "https://github.com/dimmpixeye/ecs.git",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.3.2",
     "com.unity.collab-proxy": "1.2.16",
@@ -37,5 +38,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.pixeye.ecs": {
+      "hash": "eea6bf5df17ec9c6a9549a8a47b47077922b35b6",
+      "revision": "HEAD"
+    }
   }
 }
